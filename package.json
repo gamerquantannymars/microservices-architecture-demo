@@ -11,5 +11,13 @@
     "mongoose": "^5.10.9"
   },
   "author": "Tên của bạn",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/microservices-architecture-demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/microservices-architecture-demo/issues"
+  },
+  "homepage": "https://github.com/yourusername/microservices-architecture-demo#readme"
 }
